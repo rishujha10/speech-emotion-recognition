@@ -1,6 +1,5 @@
 # Speech Emotion Recognition - Sound Classification
 
-**Complete Video Tutorial:** https://youtu.be/-VQL8ynOdVg
 
 # Dataset Information
 
